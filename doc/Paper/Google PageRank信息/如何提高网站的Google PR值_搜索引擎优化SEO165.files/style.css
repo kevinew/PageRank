@@ -1,0 +1,123 @@
+BODY {
+	FONT-SIZE: 12px; COLOR: #000000
+}
+TABLE {
+	FONT-SIZE: 12px; COLOR: #000000
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000
+}
+.whitetxt {
+	FONT-SIZE: 12px; COLOR: #cccccc
+}
+.toptxt {
+	FONT-SIZE: 12px; COLOR: #990000
+}
+.newstxt {
+	FONT-SIZE: 13px; COLOR: #990000; FONT-FAMILY: Arial
+}
+.bg1 {
+	BACKGROUND-COLOR: #cc0000
+}
+.bg2 {
+	FONT-SIZE: 12px; COLOR: #ffffff; BACKGROUND-COLOR: #cccccc
+}
+.bg3 {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.bg4 {
+	BACKGROUND-COLOR: #727272
+}
+A:link {
+	COLOR: #ae2415; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #ae2415; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #ff0000; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #ae2415; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A#nlinkmenu:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A#nlinkmenu:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A#nlinkmenu:hover {
+	FONT-SIZE: 12px; LEFT: 1px; COLOR: #ffffff; POSITION: relative; TOP: 1px; TEXT-DECORATION: underline
+}
+A#nlinkmenu:active {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A#nlinkmenu1:link {
+	FONT-SIZE: 12px; COLOR: #000000; TEXT-DECORATION: none
+}
+A#nlinkmenu1:visited {
+	FONT-SIZE: 12px; COLOR: #000000; TEXT-DECORATION: none
+}
+A#nlinkmenu1:hover {
+	FONT-SIZE: 12px; LEFT: 1px; COLOR: #000000; POSITION: relative; TOP: 1px; TEXT-DECORATION: underline
+}
+A#nlinkmenu1:active {
+	FONT-SIZE: 12px; COLOR: #000000; TEXT-DECORATION: none
+}
+A#nlink1:link {
+	FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A#nlink1:visited {
+	FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A#nlink1:hover {
+	FONT-SIZE: 12px; LEFT: 1px; COLOR: #000000; FONT-FAMILY: Arial; POSITION: relative; TOP: 1px; TEXT-DECORATION: underline
+}
+A#nlink1:active {
+	FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A#nlink2:link {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A#nlink2:visited {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A#nlink2:hover {
+	FONT-SIZE: 12px; LEFT: 1px; COLOR: #ff0000; FONT-FAMILY: Arial; POSITION: relative; TOP: 1px; TEXT-DECORATION: none
+}
+A#nlink2:active {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A#nlink3:link {
+	FONT-SIZE: 12px; COLOR: #663300; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A#nlink3:visited {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A#nlink3:hover {
+	FONT-SIZE: 12px; LEFT: 1px; COLOR: #663300; FONT-FAMILY: Arial; POSITION: relative; TOP: 1px; TEXT-DECORATION: underline
+}
+A#nlink3:active {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A#nlink4:link {
+	FONT-SIZE: 12px; COLOR: #000099; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A#nlink4:visited {
+	FONT-SIZE: 12px; COLOR: #000099; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A#nlink4:hover {
+	FONT-SIZE: 12px; LEFT: 1px; COLOR: #000099; FONT-FAMILY: Arial; POSITION: relative; TOP: 1px; TEXT-DECORATION: underline
+}
+A#nlink4:active {
+	FONT-SIZE: 12px; COLOR: #000099; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+H1 {
+	FONT-SIZE: 13px; MARGIN: 20px 0px 5px; COLOR: #333399; FONT-FAMILY: Arial
+}
+H2 {
+	FONT-SIZE: 12px; MARGIN: 10px 0px 5px; COLOR: #333333; FONT-FAMILY: Arial
+}
+H3 {
+	FONT-SIZE: 12px; MARGIN: 8px 0px 2px 12px; COLOR: #cc3300; FONT-FAMILY: Arial
+}
