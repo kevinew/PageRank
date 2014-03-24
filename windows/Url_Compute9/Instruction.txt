@@ -1,0 +1,23 @@
+该程序计划：
+将邻接表散列开来，得到一对一的对应关系，然后按照docid2排序，那么此时对于相同的docid2的对应关系都堆积在一起了，这样便于后来的程序统计docid2的Pr值。
+
+UrlRelationship.txt ---------> result.txt of webcrawler
+
+Use the docids' relationship. 
+
+文件UrlRelationship.txt里的每一对URL的关系的存储为：
+len-linkword-docid of mainpage - siteid of mainpage - docid - sitecid
+其中==>
+存储项			长度
+len 			4
+linkword  		len
+docid of mainpage	8
+siteid of mainpage	8
+docid			8
+sitecid			8
+
+
+DBlock_0 为邻接表
+
+LTable 为邻接表
+
